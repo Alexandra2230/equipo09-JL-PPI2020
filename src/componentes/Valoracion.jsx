@@ -1,6 +1,6 @@
 import React from 'react';
-import '../Estilos/valora.css';
-import Logo from '../Imagenes/logo.png';
+//import '../Estilos/valora.css';
+import Logo from '../imagenes/logo.png';
 import { Link } from 'react-router-dom';
 
  function Valoracion(){

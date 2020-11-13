@@ -1,6 +1,6 @@
 import React from 'react';
-import focoyflor  from '../Imagenes/focoyflor.jpg'
-import fococolor from '../Imagenes/fococolor.jpg'
+//import focoyflor  from '../imagenes/focoyflor.jpg'
+import fococolor from '../imagenes/fococolor.jpg'
 import { Link } from 'react-router-dom';
 import '../Estilos/mennu.css';
 

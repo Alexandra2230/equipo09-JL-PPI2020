@@ -15,7 +15,7 @@ import Comentario from '../componentes/Comentario';
 import Chat from '../componentes/Chat';
 import Usuario from '../componentes/Usuario';
 import Valoracion from '../componentes/Valoracion';
-import Menuprin from '../componentes/Menuprin';
+import Menuprincipal from '../componentes/Menuprincipal';
 
 function App () {
 return(
@@ -36,7 +36,7 @@ return(
     <Route exact path= "/Comentario" component={Comentario}/>
     <Route exact path= "/Chat" component={Chat}/>
     <Route exact path= "/Usuario" component={Usuario}/>
-    <Route exact path= "/Menuprin" component={Menuprin}/>
+    <Route exact path= "/Menuprin" component={Menuprincipal}/>
     <Route exact path= "/Valoracion" component={Valoracion}/>
 
 

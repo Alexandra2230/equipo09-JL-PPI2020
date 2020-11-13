@@ -1,7 +1,7 @@
 import React from 'react';
- import flor  from '../Imagenes/flor.png'
- import hilo from '../Imagenes/hilo.png'
- import  imgur  from '../Imagenes/imgur.png'
+ import flor  from '../imagenes/flor.png'
+ import hilo from '../imagenes/hilo.png'
+ import  imgur  from '../imagenes/imgur.png'
  import '../Estilos/sinto.css';
  import { Link } from 'react-router-dom';
 

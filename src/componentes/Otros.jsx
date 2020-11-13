@@ -1,7 +1,7 @@
 import React from 'react';
- import solo from '../Imagenes/solo.png'
- import espejito from '../Imagenes/espejito.png'
- import  desvanece  from '../Imagenes/desvanece.png'
+ import solo from '../imagenes/solo.png'
+ import espejito from '../imagenes/espejito.png'
+ import  desvanece  from '../imagenes/desvanece.png'
  import '../Estilos/otro.css';
  import { Link } from 'react-router-dom';
  function  Otros  (){

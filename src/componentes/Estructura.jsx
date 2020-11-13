@@ -1,7 +1,7 @@
 import React from 'react';
-import cosido from '../Imagenes/cosido.png'
-import destrozado from '../Imagenes/destrozado.png'
-import  vomite  from '../Imagenes/vomite.png'
+import cosido from '../imagenes/cosido.png'
+import destrozado from '../imagenes/destrozado.png'
+import  vomite  from '../imagenes/vomite.png'
 import '../Estilos/estructura.css';
 import { Link } from 'react-router-dom';
 

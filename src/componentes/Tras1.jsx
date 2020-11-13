@@ -1,7 +1,7 @@
 import React from 'react';
-import ani  from '../Imagenes/ani.png';
-import espejo from '../Imagenes/espejo.png';
-import  atrapado  from '../Imagenes/atrapado.png';
+import ani  from '../imagenes/ani.png';
+import espejo from '../imagenes/espejo.png';
+import  atrapado  from '../imagenes/atrapado.png';
 import '../Estilos/tras.css';
 import { Link } from 'react-router-dom';
  function Tras1 (){

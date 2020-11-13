@@ -1,5 +1,5 @@
  import React from 'react';
-import arbol  from '../Imagenes/arbol.png'
+import arbol  from '../imagenes/arbol.png'
 import { Link } from 'react-router-dom';
 import '../Estilos/inicio.css';
 

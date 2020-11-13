@@ -1,6 +1,6 @@
 import React from 'react';
 import '../Estilos/comentario.css';
-import Logo from '../Imagenes/logo.png';
+import Logo from '../imagenes/logo.png';
 import { Link } from 'react-router-dom';
 
 function Comentario (){

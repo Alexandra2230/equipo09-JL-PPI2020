@@ -1,7 +1,7 @@
 import React from 'react';
- import cabeza from '../Imagenes/cabeza.png'
- import ojos from '../Imagenes/ojos.png'
- import  risa from '../Imagenes/risa.png'
+ import cabeza from '../imagenes/cabeza.png'
+ import ojos from '../imagenes/ojos.png'
+ import  risa from '../imagenes/risa.png'
  import '../Estilos/tipo.css';
  import { Link } from 'react-router-dom';
 
