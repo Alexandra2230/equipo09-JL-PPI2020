@@ -36,7 +36,7 @@ return(
     <Route exact path= "/Comentario" component={Comentario}/>
     <Route exact path= "/Chat" component={Chat}/>
     <Route exact path= "/Usuario" component={Usuario}/>
-    <Route exact path= "/Menuprin" component={Menuprincipal}/>
+    <Route exact path= "/Menuprincipal" component={Menuprincipal}/>
     <Route exact path= "/Valoracion" component={Valoracion}/>
 
 

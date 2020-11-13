@@ -1,6 +1,6 @@
 import React from 'react';
 import '../Estilos/menuprincipal.css';
-import Foco from '../imagenes/foco.jpg';
+import Foco from '../imagenes/foco.jpg'
 import { FaUserTie} from 'react-icons/fa';
 import { FaSearch } from 'react-icons/fa';
 import { FaComments} from 'react-icons/fa';

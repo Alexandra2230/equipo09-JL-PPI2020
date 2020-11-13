@@ -1,6 +1,6 @@
 import React from 'react';
-//import '../Estilos/Usuario.css';
-//import perfil from '../imagenes/perfil.png';
+import '../Estilos/Usuario.css';
+import usuario from '../imagenes/usuario.png'
 import { Link } from 'react-router-dom';
 
  function Usuario(){

@@ -1,6 +1,6 @@
 import React from 'react';
-//import '../Estilos/valora.css';
-import Logo from '../imagenes/logo.png';
+import '../Estilos/valora.css';
+import logo from '../imagenes/logo.png'
 import { Link } from 'react-router-dom';
 
  function Valoracion(){
@@ -10,8 +10,8 @@ import { Link } from 'react-router-dom';
         <div class="clasificacion"> 
         <div class="box">
        <h1>Valoracion de la App</h1>
-       <Link to="/Menuprin" className="text-decoration-none ">
-            <img src = {Logo}/>
+       <Link to="/Menuprincipal" className="text-decoration-none ">
+            <img src = {logo}/>
             </Link>
           <input id="radio1" type="radio" name="estrellas" value="5"></input>
          <label for="radio1">★</label>
@@ -27,7 +27,7 @@ import { Link } from 'react-router-dom';
           <Link to="/Comentario" className="text-decoration-none ">
           <button type="button" className="btn btn-primary btn-lg  boton btn-block mb-2 col-6" > <b>COMENTARIO</b></button>
          </Link>
-         <Link to="/Menuprin" className="text-decoration-none ">
+         <Link to="/Menuprincipal" className="text-decoration-none ">
           <button type="button" className="btn btn-primary btn-lg   boton btn-block  col-6"> <b>ENVIAR</b></button>
           </Link>
 </div>

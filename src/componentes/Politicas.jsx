@@ -1,6 +1,6 @@
 import React from 'react';
 import '../Estilos/poli.css';
-import logo  from '../imagenes/logo.png';
+import logo  from '../imagenes/logo.png'
 import { Link } from 'react-router-dom';
 
 function Politicas (){
