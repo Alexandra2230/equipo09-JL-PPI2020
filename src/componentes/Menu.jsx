@@ -27,7 +27,10 @@ import '../Estilos/mennu.css';
           <h3>Estructura</h3>
           </Link>
           <h3>Ayuda</h3>
+      <Link to="/Valoracion" className="text-decoration-none "> 
           <h3>Valoracion de la app</h3>
+          </Link>
+        
 
 
     </div>
